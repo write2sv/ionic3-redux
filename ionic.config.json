@@ -1,5 +1,7 @@
 {
   "name": "learnIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
